@@ -13,4 +13,4 @@ Who is suggesting this? Please include discord name.
 Write a short summary of what your suggestion is about.
 
 **Reason:**
-Why would your suggestion be a good addition to Legacy?
+Why would your suggestion be a good addition?
