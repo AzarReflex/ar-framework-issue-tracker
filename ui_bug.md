@@ -4,7 +4,6 @@ about: "**NOTE THIS IS ONLY FOR BUGS REGARDING THE UIS**
 When filing a bug report make sure to fill in all information as detailed as you possibly can."
 title: '[UI Bug] GIVE ME A TITLE'
 labels: bug, ui
-assignees: Anderzenn
 ---
 
 # Legacy UI Bug Report
