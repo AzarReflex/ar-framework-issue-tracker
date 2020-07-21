@@ -6,7 +6,7 @@ labels: bug
 ---
 
 **Reporter:**
-Who is reporting this? Please include discord name and your steam profile.
+Who is reporting this? Please include discord name.
 
 **Summary:**
 Write a short summary of what you're experiencing.
