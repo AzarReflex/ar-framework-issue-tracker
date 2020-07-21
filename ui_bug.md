@@ -8,8 +8,8 @@ assignees: Anderzenn
 ---
 
 # Legacy UI Bug Report
-**Reporter:** (Example: Anderzenn#0069 | https://steamcommunity.com/id/anderzenn)
-Who is reporting this? Please include discord name and your steam profile. 
+**Reporter:**
+Who is reporting this? Please include discord name
 
 **Summary:**
 Write a short summary of what you're experiencing.
